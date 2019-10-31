@@ -5,8 +5,8 @@ int main()
 {
     int A[10];
     int nilai;
-    cout<<"Nama : Dani Nugraha "<< endl;
-    cout<<"NIM  : A2.1900035"<< endl<< endl;
+    cout<<"Nama : Radit muharom "<< endl;
+    cout<<"NIM  : A2.1900138"<< endl<< endl;
     cout<<"nilai pada : "<< endl<< endl;
     for(int C=0; C<10; C++){
         cout<<" Indeks ["<< C << "] = ";
